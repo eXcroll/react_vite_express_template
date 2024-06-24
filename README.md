@@ -1,10 +1,3 @@
-<h2>Motivation</h2>
-Setup react vite project to work with a server (express in this repo) using proxy
-
-<h2>Schema</h2>
-
-![Screenshot](./figs/schema.png)
-
 
 <h2>Setup</h2>
 <ul>
